@@ -1,4 +1,4 @@
-notes-setup
+Notes on setting up a developer machine (mainly on a Mac)
 ===========
 
 
